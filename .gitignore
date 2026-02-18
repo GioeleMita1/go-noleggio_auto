@@ -11,5 +11,5 @@ vendor/
 .env
 *.env.local
 
-
+makefile
 .DS_Store
