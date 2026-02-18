@@ -1,0 +1,15 @@
+
+/bin/
+*.exe
+*.dll
+*.so
+*.dylib
+
+vendor/
+
+
+.env
+*.env.local
+
+
+.DS_Store
